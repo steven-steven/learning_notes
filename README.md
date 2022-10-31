@@ -1,2 +1,5 @@
-# learning_notes
-Compilation of learning notes
+# Learning Notes
+- [Languages:](./languages/)
+  - [SQL](./languages/sql)
+  - [Rust](./languages/rust)
+- Systems:
